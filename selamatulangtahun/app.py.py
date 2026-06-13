@@ -106,4 +106,5 @@ st.markdown("<p style='text-align: center; color: #666; font-size: 14px;'>here a
 
 # URL Lagu Selamat Ulang Tahun (Anda bisa menggantinya dengan link .mp3 lainnya)
 audio_url = st.audio("https://soundhelix.com", format="audio/mp3")
-st.audio("notalot.mp3", format="audio/mp3")
+st.audio("selamatulangtahun/notalot.mp3", format="audio/mp3")
+
